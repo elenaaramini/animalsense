@@ -2,6 +2,19 @@
 
 Questo documento trasforma la strategia di Animal Sense in materiali operativi pronti per progettazione, produzione contenuti, setup sito, lead generation e lancio del primo workshop a pagamento.
 
+
+## Aggiornamento di direzione — Brand multi-specie
+
+Questo piano va eseguito con una correzione chiave: Animal Sense deve parlare a tutti gli animali, non solo ai cavalli. Le scelte operative diventano quindi:
+
+- usare immagini e mockup con animale, cane, gatto e altri animali;
+- sostituire headline troppo equine con copy multi-specie;
+- mantenere l'esperienza equina di Elena come credenziale, non come limite di mercato;
+- progettare quiz e lead magnet con esempi adattabili a specie diverse;
+- evitare consigli tecnici specifici per una specie quando servirebbe un professionista.
+
+---
+
 ## Principio operativo
 
 Animal Sense non deve restare un'idea editoriale. Entro 30 giorni deve avere:
@@ -47,8 +60,8 @@ La direzione visiva deve comunicare:
 ### Cosa evitare
 
 - Simboli troppo spirituali: lune, mandala, cristalli, aure.
-- Estetica da maneggio tradizionale: ferri di cavallo, selle, frustini, trofei.
-- Logo troppo letterale con cane + gatto + cavallo.
+- Estetica da maneggio tradizionale: ferri di animale, selle, frustini, trofei.
+- Logo troppo letterale con cane + gatto + animale.
 - Foto patinate da equitazione sportiva.
 - Font calligrafici romantici.
 - Colori troppo saturi o infantili.
@@ -57,7 +70,7 @@ La direzione visiva deve comunicare:
 
 ### Concept scelto: Shared Field
 
-Il logo deve rappresentare uno spazio relazionale condiviso. Non deve mostrare un animale specifico in modo troppo dominante, perché il brand parte dal cavallo ma deve poter crescere verso la relazione uomo-animale in generale.
+Il logo deve rappresentare uno spazio relazionale condiviso. Non deve mostrare un animale specifico in modo troppo dominante, perché il brand parte dal animale ma deve poter crescere verso la relazione uomo-animale in generale.
 
 ### Struttura del logo
 
@@ -81,7 +94,7 @@ Il logo deve rappresentare uno spazio relazionale condiviso. Non deve mostrare u
 - Il simbolo non deve essere più complesso di 2-3 linee principali.
 - Deve funzionare in piccolo a 32 px come favicon.
 - Deve essere leggibile anche senza descriptor.
-- Deve evitare riferimenti troppo esclusivi al cavallo.
+- Deve evitare riferimenti troppo esclusivi al animale.
 - Deve trasmettere calma e autorevolezza, non decorazione.
 
 ## 1.3 Prompt AI per generare logo
@@ -179,7 +192,7 @@ Usare diagrammi semplici per spiegare:
 
 #### Soggetti
 
-- Persona e cavallo da terra.
+- Persona e animale da terra.
 - Mani, respiro, postura, distanza, sguardi.
 - Momenti di pausa prima dell'azione.
 - Contesto naturale, paddock, campo, scuderia ordinata.
@@ -203,7 +216,7 @@ Usare diagrammi semplici per spiegare:
 
 - Fondo Bone White.
 - Titoli serif Deep Forest.
-- Foto con cavallo libero in paddock, persona ferma, distanza rispettosa.
+- Foto con animale libero in paddock, persona ferma, distanza rispettosa.
 - Linee sottili che simulano respiro.
 - Card color Warm Sand.
 - CTA Soft Clay.
@@ -275,7 +288,7 @@ Microcopy footer:
 1. Header sticky leggero.
 2. Hero a due colonne:
    - sinistra: eyebrow, H1, subheadline, CTA primaria/secondaria;
-   - destra: immagine persona-cavallo + piccolo box “Presence before control”.
+   - destra: immagine persona-animale + piccolo box “Presence before control”.
 3. Sezione manifesto a larghezza piena.
 4. Sezione problema in 3 card.
 5. Metodo in 4 pilastri.
@@ -424,7 +437,7 @@ Titolo: **Fondato da Elena Aramini**
 
 Testo:
 
-Elena Aramini è istruttore ENGEA e lavora da oltre dieci anni nel mondo animale, con particolare esperienza nel mondo equino. Animal Sense nasce dall'integrazione tra pratica sul campo, mindfulness, Trust Technique, teoria polivagale, neuroscienze delle emozioni, groundwork, liberty, functional training ed educazione relazionale.
+Elena Aramini è istruttore ENGEA e lavora da oltre dieci anni nel mondo animale, con particolare esperienza nel mondo equino, oggi tradotta in un approccio multi-specie. Animal Sense nasce dall'integrazione tra pratica sul campo, mindfulness, Trust Technique, teoria polivagale, neuroscienze delle emozioni, groundwork, liberty, functional training ed educazione relazionale.
 
 CTA: **Conosci Elena**
 
@@ -434,7 +447,7 @@ Titolo: **Primo workshop: Relationship before performance**
 
 Testo:
 
-Un incontro pratico per imparare a osservare prima di intervenire, riconoscere segnali di sicurezza e tensione, e costruire sessioni più chiare e collaborative con il tuo cavallo.
+Un incontro pratico per imparare a osservare prima di intervenire, riconoscere segnali di sicurezza e tensione, e costruire sessioni più chiare e collaborative con il tuo animale.
 
 CTA: **Scopri il workshop**
 
@@ -460,13 +473,13 @@ Un ecosistema educativo fondato da Elena Aramini per aiutare persone e animali a
 
 ### Storia
 
-Animal Sense nasce dall'esperienza di Elena Aramini nel mondo animale e, in particolare, nel mondo equino. Dopo oltre dieci anni di pratica, studio e osservazione, Elena ha costruito un approccio personale che integra mindfulness, Trust Technique, teoria polivagale, neuroscienze delle emozioni, regolazione emotiva, osservazione comportamentale, groundwork, liberty, functional training ed educazione relazionale.
+Animal Sense nasce dall'esperienza di Elena Aramini nel mondo animale e, in particolare, dal mondo equino. Dopo oltre dieci anni di pratica, studio e osservazione, Elena ha costruito un approccio personale che integra mindfulness, Trust Technique, teoria polivagale, neuroscienze delle emozioni, regolazione emotiva, osservazione comportamentale, groundwork, liberty, functional training ed educazione relazionale.
 
 Questo non è un metodo per ottenere obbedienza più velocemente. È un percorso per imparare a leggere meglio ciò che accade nella relazione, riconoscere quando manca sicurezza e costruire le condizioni perché apprendimento, fiducia e movimento possano emergere con più chiarezza.
 
 ### Formazione
 
-Elena ha studiato e integrato aree come Mindfulness Educators, Trust Technique, Emotional Intelligence, Equine Psychology, Emotional Horsemanship, Functional Training, Barefoot Basics, Equine Bodywork, neuroscienze delle emozioni e teoria polivagale.
+Elena ha studiato e integrato aree come Mindfulness Educators, Trust Technique, Emotional Intelligence, Animal Psychology, Emotional Horsemanship, Functional Training, Barefoot Basics, Animal Bodywork, neuroscienze delle emozioni e teoria polivagale.
 
 ### Filosofia
 
@@ -549,7 +562,7 @@ Campi:
 
 - Nome
 - Email
-- Relazione principale: cavallo / cane / altro animale
+- Relazione principale: cavallo / cane / gatto / altro animale
 
 CTA: **Ricevi il risultato**
 
@@ -587,7 +600,7 @@ Animal Sense nasce per chi sente che la relazione con il proprio animale non pu�
 
 ## Quando la relazione diventa tensione, spesso non serve fare di più. Serve osservare meglio.
 
-Forse il tuo cavallo si irrigidisce, si distrae, si chiude o reagisce proprio quando vorresti maggiore collaborazione. Forse hai provato tecniche diverse, ma senti che manca una base comune. Forse ti chiedi se stai leggendo correttamente i segnali o se stai intervenendo troppo presto.
+Forse il tuo animale si irrigidisce, si distrae, si chiude o reagisce proprio quando vorresti maggiore collaborazione. Forse hai provato tecniche diverse, ma senti che manca una base comune. Forse ti chiedi se stai leggendo correttamente i segnali o se stai intervenendo troppo presto.
 
 Animal Sense ti aiuta a rallentare il processo, distinguere ciò che osservi da ciò che interpreti e costruire una relazione più sicura prima di aggiungere nuove richieste.
 
@@ -632,7 +645,7 @@ Educare senza rompere fiducia. Costruire confini, motivazione intrinseca, comuni
 Animal Sense è per te se:
 
 - vuoi una relazione più sicura e consapevole con il tuo animale;
-- hai un cavallo sensibile, reattivo, insicuro o difficile da leggere;
+- hai un animale sensibile, reattivo, insicuro o difficile da leggere;
 - vuoi smettere di accumulare tecniche e iniziare a osservare meglio;
 - cerchi un approccio rispettoso ma concreto;
 - vuoi imparare senza trasformare tutto in performance.
@@ -655,7 +668,7 @@ Riceverai anche la checklist “15 segnali da osservare prima di intervenire”,
 
 ## Fondato da Elena Aramini
 
-Animal Sense è stato fondato da Elena Aramini, istruttore ENGEA con oltre dieci anni di esperienza nel mondo animale e una specializzazione maturata nel mondo equino.
+Animal Sense è stato fondato da Elena Aramini, istruttore ENGEA con oltre dieci anni di esperienza nel mondo animale e una specializzazione maturata soprattutto nel mondo equino, ora trasformata in un linguaggio relazionale multi-specie.
 
 Il suo approccio integra mindfulness, Trust Technique, teoria polivagale, neuroscienze delle emozioni, osservazione comportamentale, groundwork, liberty, functional training ed educazione relazionale.
 
@@ -667,7 +680,7 @@ Animal Sense trasforma questa esperienza in strumenti, contenuti e percorsi educ
 
 ## Relationship before performance
 
-Il primo workshop Animal Sense ti guida a costruire una base più sicura nella relazione con il cavallo: osservare prima di chiedere, riconoscere segnali di tensione e disponibilità, e progettare sessioni più semplici, rispettose e collaborative.
+Il primo workshop Animal Sense ti guida a costruire una base più sicura nella relazione con il tuo animale: osservare prima di chiedere, riconoscere segnali di tensione e disponibilità, e progettare sessioni più semplici, rispettose e collaborative.
 
 **CTA:** Scopri il workshop
 
@@ -695,7 +708,7 @@ Animal Sense è un ecosistema educativo fondato da Elena Aramini per aiutare per
 
 ## La storia
 
-Animal Sense nasce dall'esperienza di Elena Aramini nel mondo animale e, in particolare, nel mondo equino.
+Animal Sense nasce dall'esperienza di Elena Aramini nel mondo animale e, in particolare, dal mondo equino, ma viene progettato per parlare a tutte le relazioni uomo-animale.
 
 Dopo oltre dieci anni di pratica, formazione e osservazione, Elena ha costruito un approccio personale che integra mindfulness, Trust Technique, teoria polivagale, neuroscienze delle emozioni, regolazione emotiva, osservazione comportamentale, groundwork, liberty, functional training ed educazione relazionale.
 
@@ -735,7 +748,7 @@ Fiducia, motivazione intrinseca, comunicazione non verbale, apprendimento e cres
 
 ## Formazione e ispirazioni
 
-Tra le aree di studio di Elena ci sono Mindfulness Educators, Trust Technique, Emotional Intelligence, Equine Psychology, Emotional Horsemanship, Warmup Reinvented, Unlock, Functional Training, Barefoot Basics, Animal Communication, Equine Bodywork, neuroscienze delle emozioni e teoria polivagale.
+Tra le aree di studio di Elena ci sono Mindfulness Educators, Trust Technique, Emotional Intelligence, Animal Psychology, Emotional Horsemanship, Warmup Reinvented, Unlock, Functional Training, Barefoot Basics, Animal Communication, Animal Bodywork, neuroscienze delle emozioni e teoria polivagale.
 
 Tra le principali fonti di ispirazione: Lucie Klaassen, Kelly de Geus, Thirza Hendriks, Karen Rohlf, Stephen Porges e Deb Dana.
 
@@ -811,7 +824,7 @@ Nome
 
 Email
 
-Relazione principale: cavallo / cane / altro animale
+Relazione principale: cavallo / cane / gatto / altro animale
 
 **CTA:** Ricevi la prossima lettera
 
@@ -1290,7 +1303,7 @@ Alternative secondarie:
 - Relational Field Notes
 - Presence Notes
 
-Scelta consigliata: **The Quiet Sense Letter**, perché è internazionale, distintiva, coerente con il brand e non legata solo al cavallo.
+Scelta consigliata: **The Quiet Sense Letter**, perché è internazionale, distintiva, coerente con il brand e non legata solo al animale.
 
 ## 10.2 Posizionamento
 
@@ -1345,7 +1358,7 @@ Ciao {{nome}},
 
 una delle pratiche più utili nella relazione con un animale è distinguere osservazione e interpretazione.
 
-Osservazione: “il cavallo ha alzato la testa e spostato il peso indietro”.
+Osservazione: “il mio animale ha alzato la testa e spostato il peso indietro”.
 
 Interpretazione: “non vuole collaborare”.
 
@@ -1505,7 +1518,7 @@ In 2 ore lavoreremo su:
 - ridurre pressione senza perdere chiarezza;
 - costruire sessioni più semplici e collaborative.
 
-Il workshop è pensato per proprietari di cavalli che vogliono una relazione più sicura e rispettosa, senza scivolare nel controllo o in promesse vaghe.
+Il workshop è pensato per persone che vogliono una relazione più sicura e rispettosa con il proprio animale, senza scivolare nel controllo o in promesse vaghe.
 
 **CTA:** Prenota il tuo posto: {{link_workshop}}
 
@@ -1519,7 +1532,7 @@ Il workshop è pensato per proprietari di cavalli che vogliono una relazione pi�
 
 Sottotitolo:
 
-Osservare, regolare e costruire una relazione più sicura con il tuo cavallo prima di chiedere di più.
+Osservare, regolare e costruire una relazione più sicura con il tuo animale prima di chiedere di più.
 
 ## 11.2 Formato
 
@@ -1544,8 +1557,8 @@ Alla fine del workshop avrai un framework pratico per osservare prima di interve
 
 ## 11.5 Per chi è
 
-- Proprietari di cavalli che vogliono una relazione più sicura.
-- Persone con cavalli sensibili, reattivi o difficili da leggere.
+- Persone che vogliono una relazione più sicura con il proprio animale.
+- Persone con animali sensibili, reattivi o difficili da leggere.
 - Chi pratica groundwork, liberty o lavoro da terra e vuole più chiarezza relazionale.
 - Chi vuole un approccio rispettoso ma concreto.
 
@@ -1725,7 +1738,7 @@ Domande generali. Nessuna diagnosi individuale.
 
 # Relationship before performance
 
-Un workshop online per imparare a osservare, regolare e costruire una relazione più sicura con il tuo cavallo prima di chiedere di più.
+Un workshop online per imparare a osservare, regolare e costruire una relazione più sicura con il tuo animale prima di chiedere di più.
 
 **Data:** {{data}}
 
@@ -1737,7 +1750,7 @@ Un workshop online per imparare a osservare, regolare e costruire una relazione 
 
 ### Problema
 
-Hai mai sentito che il tuo cavallo reagisce prima che tu riesca a capire cosa sta succedendo?
+Hai mai sentito che il tuo animale reagisce prima che tu riesca a capire cosa sta succedendo?
 
 Oppure che, nonostante esercizi e buone intenzioni, la relazione diventa tesa quando provi a chiedere qualcosa?
 
@@ -1773,7 +1786,7 @@ In questo workshop imparerai un framework pratico per:
 
 ### Per chi è
 
-Questo workshop è per proprietari di cavalli che desiderano una relazione più sicura, rispettosa e collaborativa, soprattutto se sentono che tensione, reattività, confusione o pressione stanno entrando nella relazione.
+Questo workshop è per persone che desiderano una relazione più sicura, rispettosa e collaborativa con il proprio animale, soprattutto se sentono che tensione, reattività, confusione o pressione stanno entrando nella relazione.
 
 ### Per chi non è
 
@@ -1791,11 +1804,11 @@ Posti prima edizione: **massimo 40**
 
 **Serve avere esperienza?**
 
-No, ma il workshop è pensato per persone che hanno una relazione diretta con un cavallo e vogliono osservarla meglio.
+No, ma il workshop è pensato per persone che hanno una relazione diretta con un animale e vogliono osservarla meglio.
 
 **Posso partecipare se ho un cane o un altro animale?**
 
-Puoi partecipare, ma esempi e applicazioni saranno principalmente equini.
+Sì. Il workshop nasce con esempi multi-specie e indica sempre quando serve adattare una pratica alla specie e al contesto.
 
 **Riceverò la registrazione?**
 
@@ -1805,7 +1818,7 @@ Sì, il replay sarà disponibile per 14 giorni.
 
 Ci sarà Q&A generale, ma non diagnosi o valutazioni individuali.
 
-**Se il mio cavallo ha un problema urgente?**
+**Se il mio animale ha un problema urgente?**
 
 In caso di rischio, dolore, cambiamenti improvvisi o comportamenti intensi, consulta un veterinario o un professionista qualificato.
 
